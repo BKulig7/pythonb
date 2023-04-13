@@ -1,3 +1,3 @@
 x= float (input("podaj liczbę "))
-y= x**(1/3)
-print (y)
+p= x**(17/39)
+print (p)
